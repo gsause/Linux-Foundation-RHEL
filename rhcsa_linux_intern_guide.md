@@ -59,7 +59,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## ✅ Day 4-5: Users, Groups & Access Control
+## ✅ Day 5-6: Users, Groups & Access Control
 
 > _"Your system isn't just you. It's developers, DBAs, analysts... and you need to manage their access properly."_
 
@@ -85,7 +85,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## ✅ Day 6-7: Storage & LVM
+## ✅ Day 7-8: Storage & LVM
 
 > _"Storage problems can take down apps fast. LVM gives you flexibility you’ll thank yourself for later."_
 
@@ -107,7 +107,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## ✅ Day 8-9: System Boot, Logs & Services
+## ✅ Day 9-10: System Boot, Logs & Services
 
 > _"When something breaks, logs and services are your best friends."_
 
@@ -125,7 +125,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## ✅ Day 10-11: Networking & Security
+## ✅ Day 11-12: Networking & Security
 
 > _"A system with no network is a brick. And an insecure one is a breach waiting to happen."_
 
@@ -147,7 +147,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## ✅ Day 12-13: Automation, Backup & Practice
+## ✅ Day 13-14: Automation, Backup & Practice
 
 > _"This is what separates you from a script-kiddie. Automate, practice, break and fix."_
 
@@ -165,7 +165,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## 🏁 Day 14: Refresh Practice
+## 🏁 Day 15: Refresh Practice
 > _"Set up practice challenges: Add disk, mount with LVM, set ACLs, create a backup job, reboot to rescue mode and fix fstab errors."_
 
 ---
