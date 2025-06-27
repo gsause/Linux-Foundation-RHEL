@@ -8,7 +8,7 @@ Linux holds about 45% of the global server operating system market in enterprise
 
 ---
 
-## 📚 What's Inside
+## 📦 What's Inside
 
 ### `/training-guide.md`
 > Your main learning material. Explains each concept like you're being guided by a senior admin, with a mix of commands, theory, and real-world context. Understand each concept with why it matters in the real world.
@@ -16,15 +16,17 @@ Linux holds about 45% of the global server operating system market in enterprise
 ### `/lab.md`
 > A complete set of hands-on labs. Don’t just read. Practice. Break things. Fix them.
 
+### `/linux_ask_yourself_questions.md`
+> A random set of on the job questions a Linux sysadmin might encounter. 
 ---
 
-## 🛠 Tools You'll Need
+## 🧰 Tools You'll Need
 - VMware Workstation (or a cloud VM)
 - AlmaLinux 9 minimal (no GUI)
 
 ---
 
-## 🧠 Final Tip
+## 🏁 Final Tip
 This repo is structured around doing, not just memorizing. If you're unsure, test it. Break it. Reboot it. Then fix it. That's how real engineers are made.
 
 
