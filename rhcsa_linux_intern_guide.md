@@ -8,7 +8,24 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## ✅ Day 1–2: Foundation & Everyday Survival Skills
+## ✅ Day 0-2: Linux History, Distributions and Basics
+> _"In Linux, numbering often starts from 0, not 1. The 3 days are to understand 'How it all began'"_ _[day_0.md](./day_0.md)_
+
+### 🔹 History, Philosophy & Community  
+- Learn how Linux was created, who Linus Torvalds is, and how the open-source movement shaped the modern internet.  
+- **Why?** Understanding the roots of Linux gives you context for why it's built the way it is and why it's everywhere today.
+
+### 🔹 Distributions  
+- Ubuntu, Debian, Red Hat, CentOS, Arch, Kali, Alpine  
+- **Why?** Different use cases need different flavors of Linux. Knowing the ecosystem helps you pick the right tool for the job.
+
+### 🔹 Boot Process, Kernel, init and Services  
+- BIOS → GRUB → Kernel → init/systemd  
+- **Why?** Knowing what happens from power-on to login helps you debug startup problems and understand how the OS comes to life.
+
+---
+
+## ✅ Day 3-4: Foundation & Everyday Survival Skills
 
 > _"These are the commands you'll use every day. No matter what job you do in Linux, this is your bread and butter."_
 
@@ -42,7 +59,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## ✅ Day 3-4: Users, Groups & Access Control
+## ✅ Day 4-5: Users, Groups & Access Control
 
 > _"Your system isn't just you. It's developers, DBAs, analysts... and you need to manage their access properly."_
 
@@ -68,7 +85,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## ✅ Day 5–6: Storage & LVM
+## ✅ Day 6-7: Storage & LVM
 
 > _"Storage problems can take down apps fast. LVM gives you flexibility you’ll thank yourself for later."_
 
@@ -90,7 +107,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## ✅ Day 7-8: System Boot, Logs & Services
+## ✅ Day 8-9: System Boot, Logs & Services
 
 > _"When something breaks, logs and services are your best friends."_
 
@@ -108,7 +125,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## ✅ Day 9-10: Networking & Security
+## ✅ Day 10-11: Networking & Security
 
 > _"A system with no network is a brick. And an insecure one is a breach waiting to happen."_
 
@@ -130,7 +147,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## ✅ Day 11-12: Automation, Backup & Practice
+## ✅ Day 12-13: Automation, Backup & Practice
 
 > _"This is what separates you from a script-kiddie. Automate, practice, break and fix."_
 
@@ -148,7 +165,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## 🏁 Day 13-14: Refresh Practice
+## 🏁 Day 14: Refresh Practice
 > _"Set up practice challenges: Add disk, mount with LVM, set ACLs, create a backup job, reboot to rescue mode and fix fstab errors."_
 
 ---
@@ -164,6 +181,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 📍 **Next Steps**
 - Start labbing. VirtualBox, VMware, or remote AlmaLinux VM will work.
 - Ask questions. Learn by doing.
+- One of my go to https://linuxjourney.com/
 
 You got this. 💪
 
