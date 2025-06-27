@@ -1,63 +1,30 @@
-# 🧑‍💻 RHCSA Linux Intern Training Repo (AlmaLinux / RHEL 9)
+# 🧑‍💻 Get Know Linux
 
-Welcome to the **RHCSA Linux Intern Training** repository. This is a hands-on, real-world-focused guide for interns and beginners who want to learn Red Hat-based Linux systems from the ground up, with the end goal of RHCSA certification (EX200).
+Welcome to the **Don't know where to start with Linux** repository. This is explicitly for interns and beginners to understand Linux from the ground up.
+
+Earth's IT industry runs on opensource software/tools, from which extra feature additions and customer support are sold for cash. To evolve in this landscape you should experience opensource because it’s transparent, collaborative, auditable, and free. It’s a digital democracy where your contributions can literally move the world forward without needing to pay, just to access the environment. You don’t need a license, subscription, or corporate approval to get started. Everything is out in the open, ready for you to explore, learn, break, fix, and build. Whether you’re a student in a small town or an engineer in a top tech firm, the playing field is level. That’s the power of open source and Linux sits right at the centre of it.
+
+Linux holds about 45% of the global server operating system market in enterprise environments as of 2024 in which Red Hat Enterprise Linux alone represents a significant portion of it. It is the preferred choice for cloud infrastructure and modern enterprise applications, powering over 90% of public cloud workloads [1](https://www.sci-tech-today.com/stats/linux-statistics/).
 
 ---
 
 ## 📚 What's Inside
 
 ### `/training-guide.md`
-> Your main learning material. Explains each concept like you're being guided by a senior admin, with a mix of commands, theory, and real-world context.
+> Your main learning material. Explains each concept like you're being guided by a senior admin, with a mix of commands, theory, and real-world context. Understand each concept with why it matters in the real world.
 
 ### `/lab.md`
-> A complete set of hands-on labs. Includes break-fix tasks, LVM exercises, user creation, cron jobs, firewalld configs, and more.
-
-### `/Linux_Intern_Training_Checklist.xlsx`
-> A progress tracker that helps you and your mentor check off skills weekly. Covers all RHCSA-aligned areas.
-
----
-
-## 🎯 Who This Is For
-- Interns onboarding into sysadmin/devops roles
-- New grads aiming for RHCSA
-- Bootcamp learners needing hands-on structure
-- Anyone starting with AlmaLinux or RHEL
-
----
-
-## 🚀 How to Use This Repo
-
-1. **Start with `training-guide.md`**  
-   Understand each concept with why it matters in the real world.
-
-2. **Do the labs in `lab.md`**  
-   Don’t just read. Practice. Break things. Fix them.
-
-3. **Track progress in Excel**  
-   Use `Linux_Intern_Training_Checklist.xlsx` to log weekly reviews and checklist items.
-
-4. **Version control your own work**  
-   Create a folder `intern-notes/` and start pushing your lab notes and scripts.
+> A complete set of hands-on labs. Don’t just read. Practice. Break things. Fix them.
 
 ---
 
 ## 🛠 Tools You'll Need
-- VirtualBox or VMware (or a cloud VM)
-- AlmaLinux 9 ISO or minimal install
-- Internet access for package installation
-
----
-
-## 📢 Feedback / Contributions
-Open an issue or PR if you'd like to:
-- Add new labs
-- Translate this to another language
-- Convert it into a web-based version or GitBook
+- VMware Workstation (or a cloud VM)
+- AlmaLinux 9 minimal (no GUI)
 
 ---
 
 ## 🧠 Final Tip
-This repo is structured around doing, not just memorizing. If you're unsure, test it. Break it. Reboot it. Then fix it. That's how real sysadmins are made.
+This repo is structured around doing, not just memorizing. If you're unsure, test it. Break it. Reboot it. Then fix it. That's how real engineers are made.
 
-Happy hacking! 🐧
 
