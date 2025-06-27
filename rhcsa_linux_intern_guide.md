@@ -1,10 +1,14 @@
 # 🧑‍🏫 RHCSA-Aligned Linux Intern Guide (AlmaLinux / RHEL 9)
 
-Welcome! If you're just starting your Linux journey and aiming to be RHCSA-ready, this guide is structured to walk you through **real-world Linux skills** that are **actually used in the field**. Think of this as if I'm sitting right next to you, helping you understand not just *what* to learn but *why* it matters.
+Welcome!
+
+![Sticker](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVuNWtraHE5ZXM0ZmM5bGx6aTdhOHFpd3EwY2tkY3F0aTU4Y2ZoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FemTGpEZeK27M5fKL4/giphy.gif)
+
+This guide is structured to walk you through **real-world Linux skills** that are **actually used in the field** and helping you understand not just *what* to learn but *why* it matters.
 
 ---
 
-## ✅ Week 1–2: Foundation & Everyday Survival Skills
+## ✅ Day 1–2: Foundation & Everyday Survival Skills
 
 > _"These are the commands you'll use every day. No matter what job you do in Linux, this is your bread and butter."_
 
@@ -38,7 +42,7 @@ Welcome! If you're just starting your Linux journey and aiming to be RHCSA-ready
 
 ---
 
-## ✅ Week 3: Users, Groups & Access Control
+## ✅ Day 3-4: Users, Groups & Access Control
 
 > _"Your system isn't just you. It's developers, DBAs, analysts... and you need to manage their access properly."_
 
@@ -64,7 +68,7 @@ Welcome! If you're just starting your Linux journey and aiming to be RHCSA-ready
 
 ---
 
-## ✅ Week 4–5: Storage & LVM
+## ✅ Day 5–6: Storage & LVM
 
 > _"Storage problems can take down apps fast. LVM gives you flexibility you’ll thank yourself for later."_
 
@@ -86,7 +90,7 @@ Welcome! If you're just starting your Linux journey and aiming to be RHCSA-ready
 
 ---
 
-## ✅ Week 6: System Boot, Logs & Services
+## ✅ Day 7-8: System Boot, Logs & Services
 
 > _"When something breaks, logs and services are your best friends."_
 
@@ -104,7 +108,7 @@ Welcome! If you're just starting your Linux journey and aiming to be RHCSA-ready
 
 ---
 
-## ✅ Week 7: Networking & Security
+## ✅ Day 9-10: Networking & Security
 
 > _"A system with no network is a brick. And an insecure one is a breach waiting to happen."_
 
@@ -126,7 +130,7 @@ Welcome! If you're just starting your Linux journey and aiming to be RHCSA-ready
 
 ---
 
-## ✅ Week 8: Automation, Backup & Practice
+## ✅ Day 11-12: Automation, Backup & Practice
 
 > _"This is what separates you from a script-kiddie. Automate, practice, break and fix."_
 
@@ -142,8 +146,10 @@ Welcome! If you're just starting your Linux journey and aiming to be RHCSA-ready
 - `tar`, `scp`, `rsync`
 - Why? Always assume something will break. Backups = insurance.
 
-### 🔹 RHCSA Practice
-- Set up practice challenges: Add disk, mount with LVM, set ACLs, create a backup job, reboot to rescue mode and fix fstab errors.
+---
+
+## ✅ Day 13-14: Refresh Practice
+> _"Set up practice challenges: Add disk, mount with LVM, set ACLs, create a backup job, reboot to rescue mode and fix fstab errors."_
 
 ---
 
@@ -156,7 +162,6 @@ Welcome! If you're just starting your Linux journey and aiming to be RHCSA-ready
 ---
 
 📍 **Next Steps**
-- Bookmark: [Red Hat RHCSA Objectives](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)
 - Start labbing. VirtualBox, VMware, or remote AlmaLinux VM will work.
 - Ask questions. Learn by doing.
 
