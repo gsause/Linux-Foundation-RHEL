@@ -148,7 +148,7 @@ This guide is structured to walk you through **real-world Linux skills** that ar
 
 ---
 
-## ✅ Day 13-14: Refresh Practice
+## 🏁 Day 13-14: Refresh Practice
 > _"Set up practice challenges: Add disk, mount with LVM, set ACLs, create a backup job, reboot to rescue mode and fix fstab errors."_
 
 ---
