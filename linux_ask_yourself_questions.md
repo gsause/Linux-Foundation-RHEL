@@ -173,17 +173,4 @@ netstat -tulnp
 lsof
 ```
 
----
-
-## Reference
-
-1. [Linux Usage Statistics - Sci Tech Today](https://www.sci-tech-today.com/stats/linux-statistics/)
-
----
-
-## Open Source Feels
-
-
-
-[via GIPHY](https://giphy.com/stickers/justin-transparent-WNcb7X5QHgr9cqWm1S)
 
