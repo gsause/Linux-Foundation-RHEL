@@ -1,7 +1,7 @@
 # 🧪 RHCSA Lab Tasks for Interns (AlmaLinux / RHEL 9)
 
 > These labs are hands-on, practical tasks that match the training guide. Use these in a VM or test environment. Break stuff and learn to fix it!
-
+![Sticker](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQyaTY3YXJkcDdwZ25nczAwZ2R3NnpwbjVycW5sMGN3dmE0Mmt4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/phw2emHejeR33WurHU/giphy.gif)
 ---
 
 ## ✅ Day 2-3 Labs: Shell & Navigation
