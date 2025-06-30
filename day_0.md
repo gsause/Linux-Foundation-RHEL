@@ -10,7 +10,7 @@ These early distributions became the foundation for fully free (as in freedom) c
 
 Today, Linux powers:
 - More than **50%** of the Internet's servers
-- The majority of smartphones (via **Android**, built on Linux)
+- The majority of smartphones (**Android**)
 - Over **90%** of the public cloud workload
 - All of the world’s most powerful supercomputers
 
