@@ -4,7 +4,7 @@
 
 ---
 
-## ✅ Day 3-4 Labs: Shell & Navigation
+## ✅ Day 2-3 Labs: Shell & Navigation
 
 ### 1. Navigate and Manipulate Files
 - Create `/home/student/testdir` and navigate into it
@@ -24,7 +24,7 @@
 
 ---
 
-## ✅ Day 5-6 Labs: Users & Access Control
+## ✅ Day 4-5 Labs: Users & Access Control
 
 ### 4. User Management
 - Create user `intern1` with `/bin/bash` as shell
@@ -36,7 +36,7 @@
 
 ---
 
-## ✅ Day 7-8 Labs: Disks & LVM
+## ✅ Day 6-7 Labs: Disks & LVM
 
 ### 6. Mounting Disks
 - Attach a new 2GB virtual disk to your VM
@@ -53,7 +53,7 @@
 
 ---
 
-## ✅ Day 9-10 Labs: Services & Logs
+## ✅ Day 8-9 Labs: Services & Logs
 
 ### 9. Services
 - Start and enable the `sshd` service
@@ -65,7 +65,7 @@
 
 ---
 
-## ✅ Day 11-12 Labs: Networking & Security
+## ✅ Day 10-11 Labs: Networking & Security
 
 ### 11. Networking
 - Use `nmcli` to assign static IP `192.168.100.10/24` to your NIC
@@ -81,7 +81,7 @@
 
 ---
 
-## ✅ Day 13-14 Labs: Scripting & Backup
+## ✅ Day 12-13 Labs: Scripting & Backup
 
 ### 14. Bash Script
 - Write a script `userinfo.sh` that prints:
@@ -97,7 +97,7 @@
 
 ---
 
-## 🏁 Day 15 Labs: Final Practice
+## 🏁 Day 14 Labs: Final Practice
 
 - Break `/etc/fstab`, reboot into rescue mode and fix it
 - Disable the network via `nmcli`, then bring it back manually
