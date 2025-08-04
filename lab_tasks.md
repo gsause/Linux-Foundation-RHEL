@@ -1,10 +1,10 @@
-# 🧪 RHCSA Lab Tasks for Interns (AlmaLinux / RHEL 9)
+# 🐧 RHCSA Lab Tasks for Interns (AlmaLinux / RHEL 9)
 
 > These labs are hands-on, practical tasks that match the training guide. Use these in a VM or test environment. Break stuff and learn to fix it!
 ![Sticker](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQyaTY3YXJkcDdwZ25nczAwZ2R3NnpwbjVycW5sMGN3dmE0Mmt4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/phw2emHejeR33WurHU/giphy.gif)
 ---
 
-## ✅ Day 2-3 Labs: Shell & Navigation
+## 🐧 Day 2-3 Labs: Shell & Navigation
 
 ### 1. Navigate and Manipulate Files
 - Create `/home/student/testdir` and navigate into it
@@ -24,7 +24,7 @@
 
 ---
 
-## ✅ Day 4-5 Labs: Users & Access Control
+## 🐧 Day 4-5 Labs: Users & Access Control
 
 ### 4. User Management
 - Create user `intern1` with `/bin/bash` as shell
@@ -36,7 +36,7 @@
 
 ---
 
-## ✅ Day 6-7 Labs: Disks & LVM
+## 🐧 Day 6-7 Labs: Disks & LVM
 
 ### 6. Mounting Disks
 - Attach a new 2GB virtual disk to your VM
@@ -53,7 +53,7 @@
 
 ---
 
-## ✅ Day 8-9 Labs: Services & Logs
+## 🐧 Day 8-9 Labs: Services & Logs
 
 ### 9. Services
 - Start and enable the `sshd` service
@@ -65,7 +65,7 @@
 
 ---
 
-## ✅ Day 10-11 Labs: Networking & Security
+## 🐧 Day 10-11 Labs: Networking & Security
 
 ### 11. Networking
 - Use `nmcli` to assign static IP `192.168.100.10/24` to your NIC
@@ -81,7 +81,7 @@
 
 ---
 
-## ✅ Day 12-13 Labs: Scripting & Backup
+## 🐧 Day 12-13 Labs: Scripting & Backup
 
 ### 14. Bash Script
 - Write a script `userinfo.sh` that prints:
@@ -105,5 +105,5 @@
 
 ---
 
-> 💡 Tip: Keep a lab log or Git repo of what you did. Version control your scripts and notes like a real sysadmin!
+> 🐧 Tip: Keep a lab log or Git repo of what you did. Version control your scripts and notes like a real sysadmin!
 
